@@ -18,7 +18,7 @@ elem.addEventListener("mouseenter",function(){
 
 elem.addEventListener("mouseleave",function(){
     crsr.style.scale = 1
-    crsr.style.border ="0px solid #fff"
+    crsr.style.border ="1px solid #fff"
     crsr.style.backgroundColor = "#fff"
 })
 })

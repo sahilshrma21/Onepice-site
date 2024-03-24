@@ -49,7 +49,7 @@ body::-webkit-scrollbar-thumb{
     position: fixed;
     justify-content: flex-start;
     gap: 20px;
-    /* transition: all ease 0.4s; */
+    transition: all ease 1s;
     z-index: 99;
 }
 
@@ -61,10 +61,10 @@ body::-webkit-scrollbar-thumb{
 #nav h4{
     text-transform: uppercase;
     font-weight: 800;
-    transition: all ease 1s;
+    /* transition: all ease 1s; */
 }
 
-video{
+.luffy{
     height: 100%;
     width: 100%;
     position: fixed;
