@@ -49,7 +49,7 @@ body::-webkit-scrollbar-thumb{
     position: fixed;
     justify-content: flex-start;
     gap: 20px;
-    transition: all ease 1s;
+    transition: all ease 0.4s;
     z-index: 99;
 }
 
